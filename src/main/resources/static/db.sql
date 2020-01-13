@@ -11,3 +11,4 @@ create table authorities (
 );
 
 INSERT INTO users VALUES ('luis','$2a$10$O4zV8CJ.E6KyrwuRocn4ceIoYRB/AjwCA6BbGs98a3WW3GUiKXkZy',1); --luis123
+INSERT INTO authorities VALUES ('luis','ADMINISTRADOR'); --autoridad
